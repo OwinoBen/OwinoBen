@@ -1,5 +1,6 @@
 ### Hi there 👋
 ## 🚀 About me
+I am a software engineer with a passion for building innovative and user-friendly software.
 <!--**OwinoBen/OwinoBen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
